@@ -52,7 +52,7 @@ Supports **Super Admin**, **Admin**, and **Normal User** roles with CRUD operati
 
 1. Clone the repo  
    ```bash
-   git clone <YOUR_REPO_URL>
+   git clone https://github.com/ramitgupta195/role_based_system.git
    cd role_based_system
 2. Install dependencies 
     ```bash
